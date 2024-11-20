@@ -22,7 +22,7 @@ class _EletropostoScreenState extends State<EletropostoScreen> {
         backgroundColor: Colors.blueAccent,
         title: Text(
           'Eletropostos Próximos a Sua Localização (Victor86974 -- Guilherme93309)',
-          style: TextStyle(fontSize: 18, fontWeight: FontWeight.bold),
+          style: TextStyle(fontSize: 18, fontWeight: FontWeight.bold,color: Colors.white),
         ),
         centerTitle: true,
       ),
